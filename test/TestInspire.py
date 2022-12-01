@@ -3,8 +3,6 @@ from src.pages.LoginPage import *
 from src.pages.CreatePostPage import *
 from src.pages.HomePage import *
 import pytest
-
-
 from selenium import webdriver
 
 #performs the setup and teardown activities
